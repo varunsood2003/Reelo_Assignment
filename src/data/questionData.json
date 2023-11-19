@@ -1,0 +1,198 @@
+[
+  {
+    "question": "What is the speed of light",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Describe the process of photosynthesis",
+    "subject": "Biology",
+    "topic": "Ecology",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Solve the quadratic equation x^2 - 4x + 4 = 0",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the theory of relativity",
+    "subject": "Physics",
+    "topic": "Quantum Physics",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "What is the capital of France",
+    "subject": "Geography",
+    "topic": "World Capitals",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Name the components of a cell",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Differentiate between velocity and speed",
+    "subject": "Physics",
+    "topic": "Motion",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Calculate the area of a triangle with base 8 and height 6",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "Explain the concept of natural selection",
+    "subject": "Biology",
+    "topic": "Evolution",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Define the term 'isotope'",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "State Ohm's Law",
+    "subject": "Physics",
+    "topic": "Electricity",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Simplify the expression: (2x + 5)(3x - 2)",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "Identify the planets in our solar system",
+    "subject": "Astronomy",
+    "topic": "Solar System",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Explain the process of mitosis",
+    "subject": "Biology",
+    "topic": "Cell Division",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Balance the chemical equation: CH4 + O2 -> CO2 + H2O",
+    "subject": "Chemistry",
+    "topic": "Chemical Reactions",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Define inertia",
+    "subject": "Physics",
+    "topic": "Motion",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "Identify major mountain ranges in the world",
+    "subject": "Geography",
+    "topic": "Physical Geography",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Explain the role of enzymes in biological reactions",
+    "subject": "Biology",
+    "topic": "Biochemistry",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is the difference between a covalent bond and an ionic bond?",
+    "subject": "Chemistry",
+    "topic": "Chemical Bonding",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Calculate the volume of a cylinder with radius 4 and height 10",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "Explain the greenhouse effect",
+    "subject": "Environmental Science",
+    "topic": "Climate Change",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Describe the process of DNA replication",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "What is Avogadro's number?",
+    "subject": "Chemistry",
+    "topic": "Mole Concept",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the concept of force",
+    "subject": "Physics",
+    "topic": "Newtonian Mechanics",
+    "difficulty": "Hard",
+    "marks": 20
+  },
+  {
+    "question": "Name the largest desert in the world",
+    "subject": "Geography",
+    "topic": "Physical Geography",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Describe the process of cellular respiration",
+    "subject": "Biology",
+    "topic": "Biochemistry",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Define electronegativity",
+    "subject": "Chemistry",
+    "topic": "Periodic Table",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Calculate the perimeter of a rectangle with length 12 and width 8",
+    "subject": "Mathematics",
+    "topic": "Geometry",
+    "difficulty": "Hard",
+    "marks": 20
+  }
+]
